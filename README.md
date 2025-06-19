@@ -1,5 +1,5 @@
 # music-playlist-App
-This is a simple Android app built in Kotlin using Android Studio. It allows users to create and manage a music playlist by entering details about songs including the title, artist, rating, and comments.
+This app was developed as part of my coursework built in Kotlin using Android Studio. It allows users to create and manage a music playlist by entering details about songs including the title, artist, rating, and comments.
 
 📱 Features
 Add a song with title, artist, rating (1-5), and a comment
